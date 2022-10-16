@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samirumusa
 - 👀 I’m interested in web development and anything that has to do with algorithms
-- 🌱 I’m currently learning dynamic programming and NLP 
-- 💞️ I’m looking to collaborate on web development using reactjs, typescript, and nodejs.
+- 🌱 I’m currently learning dynamic programming and JAVA
+- 💞️ I’m looking to collaborate on web development using reactjs, typescript, nodejs, JAVA, Springboot and Cloud Technology.
 - 📫 How to reach me ... send me an email via smusa87@gmail.com
 
 <!---
